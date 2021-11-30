@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NKUST.iml" filepath="$PROJECT_DIR$/NKUST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spider/Spider.iml" filepath="$PROJECT_DIR$/Spider/Spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NKUST/spider.iml" filepath="$PROJECT_DIR$/NKUST/spider.iml" />
     </modules>
   </component>
 </project>
