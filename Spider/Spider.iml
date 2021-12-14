@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output url="file://$MODULE_DIR$/../NKUST/Spider/target/classes" />
     <output-test url="file://$MODULE_DIR$/../NKUST/Spider/target/test-classes" />
     <content url="file://$MODULE_DIR$/../NKUST/Spider">
@@ -11,7 +11,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../NKUST/Spider/${project.build.directory}/classes" />
       <excludeFolder url="file://$MODULE_DIR$/../NKUST/Spider/target" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-11 (2)" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.14.3" level="project" />
   </component>

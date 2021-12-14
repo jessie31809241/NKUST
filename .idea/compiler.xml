@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Spider" target="1.5" />
+      <module name="Spider" target="11" />
       <module name="spider" target="11" />
     </bytecodeTargetLevel>
   </component>
